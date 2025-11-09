@@ -36,5 +36,6 @@ Simply double-click `MiniTextAnalyzer.exe` (no Python installation required).
 ### Option 2 – Run from source
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/MiniTextAnalyzer.git
+   git clone https://github.com/YSRFTH/Mini-Text-Analyzer-Tkinter-App-.git
    cd MiniTextAnalyzer
+
